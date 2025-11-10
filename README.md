@@ -24,7 +24,7 @@ My foundation lies in **C++ & Data Structures and Algorithms**, and I’m curren
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,tailwind,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,tailwind,github,vscode" />
 </p>
 
 - **Languages:** C++, JavaScript, HTML, CSS  
