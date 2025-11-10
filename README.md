@@ -75,7 +75,7 @@ A curated collection of front-end projects demonstrating responsive design and m
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ashish-jodha" target="_blank">
+  <a href="https://www.linkedin.com/in/ashish-jodha-2065a5327/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ashishjodha.tech@gmail.com">
@@ -98,7 +98,7 @@ A curated collection of front-end projects demonstrating responsive design and m
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashish-jodha/ashish-jodha/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-jodha&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <p align="center"><strong>Thanks for visiting my profile.</strong><br/>I’m continuously improving, learning, and building — one line of code at a time.</p>
