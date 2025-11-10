@@ -97,8 +97,17 @@ A curated collection of front-end projects demonstrating responsive design and m
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-jodha&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:0077B5&height=100&section=footer" />
 </p>
 
-<p align="center"><strong>Thanks for visiting my profile.</strong><br/>I’m continuously improving, learning, and building — one line of code at a time.</p>
+<p align="center">
+  <em>Thank you for visiting my profile.<br>
+  Let's connect, collaborate, and build something meaningful together.</em>
+</p>
+
+<p align="center">
+  <strong>— Ashish Jodha</strong>
+</p>
