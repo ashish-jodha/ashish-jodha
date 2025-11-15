@@ -1,113 +1,87 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=900&color=00BFFF&center=true&vCenter=true&width=750&lines=Hi,+I'm+Ashish+Jodha.;C%2B%2B+%7C+DSA+Developer+%7C+Web+Development+Learner.;Building+logic,+structure,+and+beautiful+projects." alt="Typing Animation">
-</p>
-
-<h1 align="center">Welcome to My GitHub Portfolio 👋</h1>
-<p align="center">
-  <em>Clean code. Clear logic. Continuous growth.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=900&color=00A6FF&center=true&vCenter=true&width=800&lines=Ashish+Jodha;C%2B%2B+%7C+DSA+%7C+Web+Development+Learner;Building+Strong+Fundamentals+Every+Day" alt="Typing Animation">
 </p>
 
 ---
 
-## 🧭 About Me
-
-I’m **Ashish Jodha**, a developer focused on writing efficient code and building scalable, user-centric projects.  
-My foundation lies in **C++ & Data Structures and Algorithms**, and I’m currently expanding into **Web Development** to bridge algorithmic logic with real-world application.
-
-- 🎓 Completed **C++ DSA** from **Sigma 7.0 – Apna College**  
-- 💻 Solving algorithmic challenges on **LeetCode**  
-- 🌱 Learning **React** and **Node.js** for full-stack development  
-- ✨ Building projects that prioritize clarity, functionality, and design
-
----
-
-## 🛠️ Tech Stack
-
+<h2 align="center">✨ Welcome to My GitHub Profile ✨</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,tailwind,github,vscode" />
-</p>
-
-- **Languages:** C++, JavaScript, HTML, CSS  
-- **Frameworks & Tools:** React (learning), Node.js (basics), Tailwind CSS, Git  
-- **Core Areas:** Data Structures & Algorithms, Problem Solving  
-
----
-
-## 📂 Featured Work
-
-### 🔹 [LeetCode-DSA-Solutions](https://github.com/ashish-jodha/LeetCode-DSA-Solutions)
-Structured C++ solutions with focus on efficiency, clarity, and categorized learning.  
-
-### 🔹 [Web-Development-Showcase](https://github.com/ashish-jodha/Web-Development-Showcase)
-A curated collection of front-end projects demonstrating responsive design and modern UI.
-
----
-
-## 📈 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-jodha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-jodha&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-jodha&theme=tokyo-night&hide_border=true&area=true" />
+  <em>Clean code. Strong logic. Disciplined growth.</em>
 </p>
 
 ---
 
-## 🌱 Current Goals
+## 🚀 About Me
 
-- Master DSA concepts  
-- Build full-stack projects using React and Node.js  
-- Keep solving daily to maintain discipline and progress  
+I’m **Ashish Jodha**, a developer focused on mastering **C++**, **Data Structures & Algorithms**, and the foundations of **Web Development**.  
+My approach is simple: **build strong fundamentals first**, then grow into advanced development.
 
----
-
-## 🧩 Guiding Principles
-
-> “Clarity in thought creates clarity in code.”  
-> I believe good developers balance **logic** with **design**, and **efficiency** with **readability**.  
-> My aim is to build software that’s both **functional** and **elegant**.
+- 📘 Completed **C++ DSA – Sigma 7.0 (Apna College)**  
+- 🔍 Solving **LeetCode** problems consistently  
+- 🌱 Learning **HTML, CSS, JavaScript**  
+- 🛠 Familiar with **GitHub**, **VS Code**  
+- 🎯 Aim: Build the skills needed to join top-tier engineering teams  
 
 ---
 
-## 🤝 Connect with Me
+## 🧠 Skills & Technologies
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashish-jodha-2065a5327/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ashishjodha.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/byPtoLHKTS/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://github.com/ashish-jodha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,github,vscode&theme=light" height="90"/>
+</p>
+
+**Languages:** C++, JavaScript  
+**Web Basics:** HTML, CSS  
+**Core Strength:** DSA, Logical Thinking  
+**Tools:** GitHub, VS Code  
+
+---
+
+## 🔥 What I’m Doing Right Now
+
+- Strengthening **DSA** and problem-solving skills  
+- Practicing **JavaScript fundamentals**  
+- Building clean, structured **HTML/CSS/JS** mini-projects 
+
+---
+
+## 🧭 Learning Roadmap (Next Steps)
+
+- Deepen JavaScript concepts  
+- Build structured beginner-friendly web projects  
+- Gradually move toward front-end frameworks 
+- Keep improving coding discipline and foundational skills  
+
+---
+
+## 💡 Personal Philosophy
+
+<p align="center">
+  <em>“Strong fundamentals build strong engineers.  
+  I grow through consistency and clarity.”</em>
 </p>
 
 ---
 
-## 🧠 Personal Statement
-> *I write code to make ideas real. My focus is on growth through discipline, clarity, and curiosity.*  
-> *Each commit represents a small, meaningful step toward excellence.*
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashish-jodha-2065a5327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ashishjodha.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/byPtoLHKTS/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://github.com/ashish-jodha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:0077B5&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A6FF,100:0044FF&height=100&section=footer" />
 </p>
 
 <p align="center">
-  <em>Thank you for visiting my profile.<br>
-  Let's connect, collaborate, and build something meaningful together.</em>
+  <strong>Thanks for stopping by — building silently, improving consistently.</strong>
 </p>
 
 <p align="center">
-  <strong>— Ashish Jodha</strong>
+  — Ashish
 </p>
