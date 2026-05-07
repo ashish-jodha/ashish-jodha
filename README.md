@@ -33,24 +33,7 @@ My approach is simple: **build strong fundamentals first**, then grow into advan
 **Languages:** C++, JavaScript  
 **Web Basics:** HTML, CSS  
 **Core Strength:** DSA, Logical Thinking  
-**Tools:** GitHub, VS Code  
-
----
-
-## 🔥 What I’m Doing Right Now
-
-- Strengthening **DSA** and problem-solving skills  
-- Practicing **JavaScript fundamentals**  
-- Building clean, structured **HTML/CSS/JS** mini-projects 
-
----
-
-## 🧭 Learning Roadmap (Next Steps)
-
-- Deepen JavaScript concepts  
-- Build structured beginner-friendly web projects  
-- Gradually move toward front-end frameworks 
-- Keep improving coding discipline and foundational skills  
+**Tools:** GitHub, VS Code   
 
 ---
 
