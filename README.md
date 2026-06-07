@@ -19,8 +19,8 @@ I enjoy building clean and scalable applications while continuously improving my
 
 * 🎓 B.Tech CSE Student at JECRC Foundation (2028)
 * 📘 Completed **Sigma 7.0 DSA** by Apna College
-* 🔍 Solved **400+ LeetCode** problems
-* 🔥 Maintaining a **200+ day LeetCode streak**
+* 🔍 Solved **450+ LeetCode** problems
+* 🔥 Maintaining a **250+ day LeetCode streak**
 * 🌱 Learning and building with modern web technologies
 * 🎯 Focused on strong fundamentals and real-world development
 
