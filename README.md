@@ -13,15 +13,15 @@
 
 ## 🚀 About Me
 
-I’m **Ashish Jodha**, a Computer Science student focused on mastering **Full Stack Development**, **C++**, and **Data Structures & Algorithms**.
+I'm **Ashish Jodha**, a Computer Science student focused on **Full Stack Development**, **C++**, and **Data Structures & Algorithms**.
 
-I enjoy building clean and scalable applications while continuously improving my problem-solving and development skills.
+I enjoy building practical web applications while continuously improving my problem-solving and development skills.
 
 * 🎓 B.Tech CSE Student at JECRC Foundation (2028)
-* 📘 Completed **Sigma 7.0 DSA** by Apna College
+* 📘 Completed **Sigma 7.0 DSA** and **Delta Full Stack Web Development** by Apna College
 * 🔍 Solved **450+ LeetCode** problems
 * 🔥 Maintaining a **250+ day LeetCode streak**
-* 🌱 Learning and building with modern web technologies
+* 🌱 Building projects with modern web technologies
 * 🎯 Focused on strong fundamentals and real-world development
 
 ---
@@ -43,7 +43,6 @@ I enjoy building clean and scalable applications while continuously improving my
 
 * React.js
 * Tailwind CSS
-* EJS
 
 ### 🛠 Backend
 
@@ -55,15 +54,19 @@ I enjoy building clean and scalable applications while continuously improving my
 
 * MongoDB Atlas
 * Mongoose
+* Passport.js
+* Cloudinary
+* Joi
 * Git & GitHub
-* VS Code
 
 ### 🧩 Core Concepts
 
 * Data Structures & Algorithms
 * C++ STL
 * MVC Architecture
-* Authentication & Session Management
+* Authentication & Authorization
+* Session Management
+* API Integration
 
 ---
 
@@ -71,19 +74,19 @@ I enjoy building clean and scalable applications while continuously improving my
 
 ### 🏡 Wanderlust
 
-A full-stack property rental platform built using Node.js, Express.js, MongoDB Atlas, Passport.js, and EJS.
+A full-stack property listing platform built using Node.js, Express.js, MongoDB Atlas, Passport.js, Cloudinary, and EJS.
 
 ### 🌤 React Weather App
 
-A modern weather application built with React and Tailwind CSS v4 featuring real-time forecasts, geocoding search, and responsive UI.
+A weather application built with React and Tailwind CSS v4 featuring real-time forecasts, geocoding search, and responsive UI.
 
 ### 🎟 React Lucky Lottery
 
-An interactive lottery ticket generator with dynamic winning logic, animations, and a glassmorphism UI.
+An interactive lottery ticket generator with dynamic winning logic and a glassmorphism-inspired interface.
 
 ### 😂 Joke Producer App
 
-A React-based joke application using a Joke API to fetch and display random jokes with a clean Tailwind CSS v4 interface.
+A React-based joke application that fetches and displays safe, random jokes using JokeAPI.
 
 ### 🎮 Simon Says Game
 
@@ -91,7 +94,7 @@ A browser-based memory game built using HTML, CSS, and JavaScript.
 
 ### 🎵 Spotify Clone
 
-A simple Spotify-inspired UI clone built using HTML and CSS.
+A Spotify-inspired music player interface built using HTML and CSS.
 
 ---
 
