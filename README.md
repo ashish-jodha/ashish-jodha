@@ -19,7 +19,7 @@ I enjoy building practical web applications while continuously improving my prob
 
 * 🎓 B.Tech CSE Student at JECRC Foundation (2028)
 * 📘 Completed **Sigma 7.0 DSA** and **Delta Full Stack Web Development** by Apna College
-* 🔍 Solved **450+ LeetCode** problems
+* 🔍 Solved **500+ LeetCode** problems
 * 🔥 Maintaining a **250+ day LeetCode streak**
 * 🌱 Building projects with modern web technologies
 * 🎯 Focused on strong fundamentals and real-world development
